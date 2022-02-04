@@ -1,6 +1,6 @@
 # Treinamento NodeJS
 
-# Introdução
+# 📖 Introdução
 
 ## Curiosidades
 
@@ -16,7 +16,7 @@
 
 ## Um pouco sobre Typescript
 
-# Criando o Projeto
+# 📖 Criando o Projeto
 
 ## Estrutura de pastas
 
@@ -24,7 +24,7 @@
 
 ## Customizando o Tratamento de Erros da Aplicação
 
-# Configurando conexão com banco de dados
+# 📖 Configurando conexão com banco de dados
 
 ## O Básico do TypeORM
 
@@ -32,7 +32,7 @@
 
 ## Configurando Migrations
 
-# Módulo de Produtos
+# 📖 Módulo de Produtos
 
 ## Migration da Tabela products
 
@@ -64,7 +64,7 @@
 
 ## Validação dos Dados de Requisições
 
-# Módulo Usuários e Autenticação
+# 📖 Módulo Usuários e Autenticação
 
 ## Migration da Tabela users
 
@@ -106,7 +106,7 @@
 
 ## Rota Estática para as Imagens de Avatar
 
-# Gerenciamento de Senhas
+# 📖 Gerenciamento de Senhas
 
 ## Visão geral - Gerenciamento de Senhas
 
@@ -140,7 +140,7 @@
 
 ## Conclusão: Envio de Email para Recuperação de Senha
 
-# Perfis de Usuários
+# 📖 Perfis de Usuários
 
 ## Serviço para Exibir Perfil de um Usuário
 
@@ -150,7 +150,7 @@
 
 ## Rotas de Perfil de Usuário
 
-# Modulo de Clientes
+# 📖 Modulo de Clientes
 
 ## Migração da Tabela customers
 
@@ -164,9 +164,9 @@
 
 ## Rotas de Clientes
 
-# Relacionamentos com TypeORM
+# 📖 Relacionamentos com TypeORM
 
-# Módulo Pedidos
+# 📖 Módulo Pedidos
 
 ## Migração da Tabela orders
 
@@ -186,7 +186,7 @@
 
 ## Rotas de Pedidos de Compras
 
-# Refatoração
+# 📖 Refatoração
 
 ## Paginação de Dados com a Lib TypeORM Pagination
 
@@ -194,7 +194,7 @@
 
 ## Conhecendo a Lib Class Transformer
 
-# Cache com Redis
+# 📖 Cache com Redis
 
 ## Conceitos e configuração inicial do Redis
 
@@ -206,17 +206,17 @@
 
 ## Invalidando o Cache
 
-# Finlizando Aplicação
+# 📖 Finlizando Aplicação
 
 ## Middleware Rate Limiter
 
-# Deploy em produção
+# 📖 Deploy em produção
 
 ## AWS
 
 ## Heroku/Vercel/Zeet
 
-# Design Patterns
+# 📖 Design Patterns
 
 ## Conceito Básico de Domain Driven Design - DDD
 
@@ -236,7 +236,7 @@
 
 ## Verificação do Funcionamento da API Após o Processo de Refatoração
 
-# Testes Automatizados
+# 📖 Testes Automatizados
 
 ## Conceitos Básicos de Testes Automatizados
 

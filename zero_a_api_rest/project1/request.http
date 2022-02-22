@@ -1,0 +1,29 @@
+POST http://localhost:4002/produtos
+content-type: application/json
+
+{
+    "name": "Notebook C",
+    "price": 3500.00
+}
+
+###
+
+GET http://localhost:4002/produtos
+
+###
+
+GET http://localhost:4002/produtos/ee77c515-5e35-46e6-8dda-98d998df0bac
+
+###
+
+PUT http://localhost:4002/produtos/ee77c515-5e35-46e6-8dda-98d998df0bac
+content-type: application/json
+
+{
+    "name": "Notebook B",
+    "price": 3000.00
+}
+
+###
+
+DELETE http://localhost:4002/produtos/cb79c999-c262-439d-98c3-77af23906d69

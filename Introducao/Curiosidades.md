@@ -14,3 +14,14 @@ mqtt
 
 
 NodeJS para varias conexoes simultaneas é imprecionante
+
+O que mais pode ser desenvolvido?
+api-rest
+WebSocket
+Serverless
+Stream
+
+Frameworks populares:
+ExpressJS
+AdonisJS
+NestJS

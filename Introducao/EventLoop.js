@@ -11,7 +11,7 @@ function primeiroBloco(){
 	// Aguardar 5 segundos
     setTimeout( function(){
         console.log('Esse é o primeiro bloco de comandos após 5 segundos');
-    }, 5000 );
+    }, 6000 );
     
 }
 function segundoBloco(){
